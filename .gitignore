@@ -1,0 +1,10 @@
+*.exe
+*.bak
+
+.bmx
+mingw32x86
+mingw32x64
+mod
+src/bcc
+src/bmk
+src/maxide

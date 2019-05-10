@@ -1,0 +1,24 @@
+[submodule "mod/brl.mod"]
+	path = mod/brl.mod
+	url = https://github.com/bmx-ng/brl.mod
+[submodule "mod/pub.mod"]
+	path = mod/pub.mod
+	url = https://github.com/bmx-ng/pub.mod
+[submodule "mod/sdl.mod"]
+	path = mod/sdl.mod
+	url = https://github.com/bmx-ng/sdl.mod
+[submodule "mod/maxgui.mod"]
+	path = mod/maxgui.mod
+	url = https://github.com/bmx-ng/maxgui.mod
+[submodule "mod/mky.mod"]
+	path = mod/mky.mod
+	url = https://github.com/bmx-ng/mky.mod
+[submodule "src/bcc"]
+	path = src/bcc
+	url = https://github.com/bmx-ng/bcc
+[submodule "src/bmk"]
+	path = src/bmk
+	url = https://github.com/bmx-ng/bmk
+[submodule "src/maxide"]
+	path = src/maxide
+	url = https://github.com/bmx-ng/maxide
